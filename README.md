@@ -37,7 +37,7 @@ The first step in handling a ticket is creating it. This involves providing impo
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After a ticket is created and sent to the ticket system, it is then typically assigned and prioritized by a manager or team lead, who also sets specific Service Level Agreements (SLAs) for each ticket. Once you are assigned a ticket, the team begins the process of identifying and diagnosing the problem. They then communicate with you to confirm that the issue is being actively addressed and worked on.
 </p>
 <br />
 
@@ -45,6 +45,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After identifying the problem and initiating the resolution process, the next step involves maintaining communication with the customer, providing regular updates on the progress of their issue. This ensures transparency and keeps the customer informed throughout the resolution process. Once the issue is resolved, the ticket is closed, and the team moves on to addressing the next ticket in the queue.
 </p>
 <br />
