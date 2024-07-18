@@ -24,26 +24,20 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![Screenshot (8)](https://github.com/user-attachments/assets/f264696b-93e2-44e1-8c08-448a6556b22a)
+
 The first step in handling a ticket is creating it. This involves providing important details like your email, name, phone number, the topic of the problem, and a brief summary of the issue. These details help the support team understand and prioritize your request effectively.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![Screenshot (9)](https://github.com/user-attachments/assets/822ec369-4a39-45db-a303-fa3f7214b1d7)
+
 After a ticket is created and sent to the ticket system, it is then typically assigned and prioritized by a manager or team lead, who also sets specific Service Level Agreements (SLAs) for each ticket. Once you are assigned a ticket, the team begins the process of identifying and diagnosing the problem. They then communicate with you to confirm that the issue is being actively addressed and worked on.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
+![Screenshot (10)](https://github.com/user-attachments/assets/51b1693e-398e-41c4-aa76-efb7b595aa2b)
+
 After identifying the problem and initiating the resolution process, the next step involves maintaining communication with the customer, providing regular updates on the progress of their issue. This ensures transparency and keeps the customer informed throughout the resolution process. Once the issue is resolved, the ticket is closed, and the team moves on to addressing the next ticket in the queue.
 </p>
 <br />
