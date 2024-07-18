@@ -28,7 +28,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Sure, here's a simpler yet professional version:
 The first step in handling a ticket is creating it. This involves providing important details like your email, name, phone number, the topic of the problem, and a brief summary of the issue. These details help the support team understand and prioritize your request effectively.
 </p>
 <br />
