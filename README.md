@@ -32,7 +32,7 @@ The first step in handling a ticket is creating it. This involves providing impo
 
 ![Screenshot (9)](https://github.com/user-attachments/assets/822ec369-4a39-45db-a303-fa3f7214b1d7)
 
-After a ticket is created and sent to the ticket system, it is then typically assigned and prioritized by a manager or team lead, who also sets specific Service Level Agreements (SLAs) for each ticket. Once you are assigned a ticket, the team begins the process of identifying and diagnosing the problem. They then communicate with you to confirm that the issue is being actively addressed and worked on.
+After a ticket is created and sent to the ticket system, it is then typically assigned and prioritized by a manager or team lead, then the Service Level Agreements (SLAs) that matches will then be set for each ticket. Once you are assigned a ticket, the team begins the process of identifying and diagnosing the problem. They then communicate with you to confirm that the issue is being actively addressed and worked on.
 </p>
 <br />
 
